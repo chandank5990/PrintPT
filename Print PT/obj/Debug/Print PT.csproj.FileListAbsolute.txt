@@ -1,0 +1,20 @@
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Print PT\Backup\Print PT\bin\Print PT.dll
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Print PT\Backup\Print PT\bin\Print PT.pdb
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Print PT\Backup\Print PT\obj\Debug\Print PT.dll
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Print PT\Backup\Print PT\obj\Debug\Print PT.pdb
+C:\Users\IT\documents\visual studio 2010\Projects\Print PT\Print PT\bin\Print PT.dll
+C:\Users\IT\documents\visual studio 2010\Projects\Print PT\Print PT\bin\Print PT.pdb
+C:\Users\IT\documents\visual studio 2010\Projects\Print PT\Print PT\obj\Debug\Print PT.dll
+C:\Users\IT\documents\visual studio 2010\Projects\Print PT\Print PT\obj\Debug\Print PT.pdb
+W:\Software\CSK\W\Print PT\Print PT\bin\Print PT.dll
+W:\Software\CSK\W\Print PT\Print PT\bin\Print PT.pdb
+W:\Software\CSK\W\Print PT\Print PT\obj\Debug\Print PT.csprojResolveAssemblyReference.cache
+W:\Software\CSK\W\Print PT\Print PT\obj\Debug\Print PT.dll
+W:\Software\CSK\W\Print PT\Print PT\obj\Debug\Print PT.pdb
+D:\CSK\Print PT\Print PT\bin\Print PT.dll
+D:\CSK\Print PT\Print PT\bin\Print PT.pdb
+D:\CSK\Print PT\Print PT\obj\Debug\Print PT.dll
+D:\CSK\Print PT\Print PT\obj\Debug\Print PT.pdb
+D:\CSK\Print PT\Print PT\bin\Print PT.dll.config
+D:\CSK\Print PT\Print PT\obj\Debug\Print PT.csprojAssemblyReference.cache
+D:\CSK\Print PT\Print PT\obj\Debug\Print PT.csproj.CoreCompileInputs.cache
